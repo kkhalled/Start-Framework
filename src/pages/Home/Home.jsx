@@ -15,10 +15,11 @@ export default function Home() {
           <img src="/hero.svg" style={{ width: 260 }} alt="" />
         </div>
         <div className="content text-center">
-          <Divider/>
+         
           <div>
             <h2 className="fs-1  fw-bold text-uppercase">start Framework</h2>
           </div>
+           <Divider/>
 
           <h6>Graphic Artist - Web Designer - Illustrator</h6>
         </div>
