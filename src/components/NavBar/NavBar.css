@@ -1,0 +1,17 @@
+.navbar{
+    background: #2C3E50 ;
+    color: white !important;
+}
+.nav-link,a{
+    color: white !important;
+}
+.nav-item{
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 8px;
+}
+.active:not(.no-active) {
+    background-color: #18BC9C !important;
+    border-radius: 8px;
+
+}

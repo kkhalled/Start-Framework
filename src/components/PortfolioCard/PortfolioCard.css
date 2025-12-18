@@ -1,0 +1,17 @@
+/* .card:hover{
+
+} */
+
+.inner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(26, 186, 159, 0.9);
+  transition: 0.5s;
+  opacity: 0;
+}
+.content:hover .inner {
+  opacity: 1;
+}
