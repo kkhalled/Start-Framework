@@ -9,7 +9,8 @@ export default function Home() {
     <>
       <NavBar />
       
-      <div className="home  d-flex justify-content-center align-items-center flex-column text-white gap-4">
+  <div className="  ">
+        <div className="home  d-flex justify-content-center align-items-center flex-column text-white gap-4 vh-100 ">
         <div>
           <img src="/hero.svg" style={{ width: 260 }} alt="" />
         </div>
@@ -22,6 +23,7 @@ export default function Home() {
           <h6>Graphic Artist - Web Designer - Illustrator</h6>
         </div>
       </div>
+  </div>
       <Footer/>
     </>
   );

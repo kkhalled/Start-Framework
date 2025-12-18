@@ -1,6 +1,6 @@
 import React from "react";
-import "./PortFolioCard.css";
-import CardModal from "../CardModal/CardModal";
+import "./PortfolioCard.css";
+
 export default function PortFolioCard({ src, onClick }) {
   return (
     <>
