@@ -16,12 +16,12 @@ export default function Home() {
         </div>
         <div className="content text-center">
          
-          <div>
+          <div className="m-3">
             <h2 className="fs-1  fw-bold text-uppercase">start Framework</h2>
           </div>
            <Divider/>
 
-          <h6>Graphic Artist - Web Designer - Illustrator</h6>
+          <h6 className="m-3">Graphic Artist - Web Designer - Illustrator</h6>
         </div>
       </div>
   </div>
